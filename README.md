@@ -17,3 +17,4 @@ perfil do scratch: [kawan2448](https://scratch.mit.edu/users/kawan2448/)
 ![](https://i.pinimg.com/originals/d9/67/73/d967736e0810a41b5740dfa640d3ed8c.gif)
 
 
+js-kawanestá licenciado sob CC BY 4.0© 2 por kawan yuri 
